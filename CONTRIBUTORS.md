@@ -1,4 +1,4 @@
-#### Name: [Aaron Aniebiet](https://github.com/Mujhtech)
+#### Name: [Muhideen Mujeeb](https://github.com/Mujhtech)
 - Place: Minna, Niger State, Nigeria
 - Bio: Community Builder, Software Developer
 - Department: Computer Science
