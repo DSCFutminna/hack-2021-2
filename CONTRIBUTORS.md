@@ -6,6 +6,7 @@
 - GitHub: [Mujhtech](https://github.com/Mujhtech)
 - Twitter: [@mmujhtech](https://twitter.com/mmujhtech)
 
+
 #### Name: [Yuusf Saifurrahman](https://github.com/yusuf-saif)
 
 - Place: FCT, Abuja Nigeria
@@ -20,3 +21,11 @@
 
 - GitHub: [Yusuf-saif](https://github.com/yusuf-saif)
 
+
+#### Name: [Yisa Zaccheaus Ndace](https://github.com/Ndace-hash)
+- Place: Minna, Niger State, Nigeria
+- Bio: Frontend Developer
+- Department: Computer Science
+- Interest: Basketball
+- Github: [Ndace-hash](https://github.com/Ndace-hash)
+- Twitter: [@Talk_With_Zach](https://twitter.com/Talk_With_Zach)
