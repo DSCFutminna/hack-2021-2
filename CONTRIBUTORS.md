@@ -29,3 +29,11 @@
 - Interest: Basketball
 - Github: [Ndace-hash](https://github.com/Ndace-hash)
 - Twitter: [@Talk_With_Zach](https://twitter.com/Talk_With_Zach)
+
+#### Name: [DIVINE](https://github.com/emperordivine)
+- Place: Minna, Niger State
+- Bio: Data scientist
+- Stack: Python
+- Department: Computer Science
+- Interest: Football
+- GitHub: [@emperordivine](https://github.com/emperordivine)
