@@ -1,9 +1,12 @@
 #### Name: [Mudasiru Rasheed](https://github.com/Taiwrash)
 - Place: Minna, Niger State Nigeria
-- Bio: Software Developer, Community Leads, Impact Maker
-- Stack: JavaScript, C++ and Business
-- Department: Computer Science
-- Interest: Brainstorming
+- Bio: 
+-    * Software Developer,
+-    * Community Leads,
+-    * Impact Maker.
+- Stack: JavaScript, C++ and Business.
+- Department: Computer Science.
+- Interest: Brainstorming.
 - GitHub: [@Taiwrash](https://github.com/Taiwrash)
 
 #### Name: [Muhideen Mujeeb](https://github.com/Mujhtech)
