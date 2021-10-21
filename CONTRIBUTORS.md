@@ -18,6 +18,14 @@
 - Twitter: [@mmujhtech](https://twitter.com/mmujhtech)
 
 
+#### Name: [STEIN](https://github.com/salstein)
+- Place: Lagos, Nigeria
+- Bio: A software developer
+- Stack: Python, Flutter
+- Interest: community building
+- GitHub: [@salstein]thttps://github.com/salstein)
+
+
 #### Name: [Yuusf Saifurrahman](https://github.com/yusuf-saif)
 
 - Place: FCT, Abuja Nigeria
@@ -47,4 +55,4 @@
 - Stack: Python
 - Department: Computer Science
 - Interest: Football
-- GitHub: [@emperordivine](https://github.com/emperordivine)
+- GitHub: [@emperordivine]thttps://github.com/emperordivine)
