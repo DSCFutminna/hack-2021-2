@@ -32,7 +32,6 @@
 
 - GitHub: [Yusuf-saif](https://github.com/yusuf-saif)
 
-
 #### Name: [Yisa Zaccheaus Ndace](https://github.com/Ndace-hash)
 - Place: Minna, Niger State, Nigeria
 - Bio: Frontend Developer
@@ -48,3 +47,12 @@
 - Department: Computer Science
 - Interest: Football
 - GitHub: [@emperordivine](https://github.com/emperordivine)
+
+#### Name: [Shuqroh](https://github.com/shuqroh)
+
+- Place: Minna, Niger State
+- Bio: Student
+- Stack: HTML & CSS
+- Department: Microbiology
+- Interest: sleeping
+- GitHub: [@shuqroh](https://github.com/shuqroh)
