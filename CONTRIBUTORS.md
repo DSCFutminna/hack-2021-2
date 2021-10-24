@@ -64,3 +64,13 @@
 - Department: Microbiology
 - Interest: sleeping
 - GitHub: [@shuqroh](https://github.com/shuqroh)
+
+
+#### Name: [Bukoye](https://github.com/Bukoye25)
+
+- Place: Abuja, FCT
+- Bio: Student
+- Stack: Cyber Security
+- Department: Cyber Security
+- Interest: Cyber Security
+- GitHub: [@Bukoye25](https://github.com/Bukoye25)
