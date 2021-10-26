@@ -82,4 +82,4 @@
 - Stack: Computer Science
 - Department: Computer Science
 - Interest: Computer Science
-- GitHub: [@Bukoye25](https://github.com/Alixaynab99)
+- GitHub: [@Alixaynab99](https://github.com/Alixaynab99)
