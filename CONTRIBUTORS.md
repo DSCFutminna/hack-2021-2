@@ -74,3 +74,12 @@
 - Department: Cyber Security
 - Interest: Cyber Security
 - GitHub: [@Bukoye25](https://github.com/Bukoye25)
+
+#### Name: [Zaynab Aliyu](https://github.com/Alixaynab99)
+
+- Place: Kogi State
+- Bio: Student
+- Stack: Computer Science
+- Department: Computer Science
+- Interest: Computer Science
+- GitHub: [@Bukoye25](https://github.com/Alixaynab99)
