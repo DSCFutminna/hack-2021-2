@@ -56,6 +56,19 @@
 - Interest: Football
 - GitHub: [@emperordivine]thttps://github.com/emperordivine
 
+
+#### Name: [Situ Ramotalahi](https://github.com/rahmah18)
+- Place: Minna, Niger State Nigeria
+- Bio: 
+-    * Data scientist,
+-    * chef,
+-    * Fashion designer.
+- Stack: python and Business.
+- Department: Computer Engineering.
+- Interest: Brainstorming.
+- GitHub: [@rahmah18](https://github.com/rahmah18)
+
+
 #### Name: [Shuqroh](https://github.com/shuqroh)
 
 - Place: Minna, Niger State
